@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="246.333" height="45" viewBox="0 0 246.333 45">
+  <defs>
+    <filter id="Path_1085" x="156" y="8.896" width="38.779" height="27.131" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="SO_" x="174.345" y="0" width="49" height="45" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1087" x="95" y="8.896" width="38.779" height="27.131" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="NO_" x="118.209" y="6" width="40" height="33" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="PM_" x="50.502" y="4.915" width="41" height="33" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_.5" x="72.445" y="10.224" width="25" height="28" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_77" x="27.5" y="11.808" width="38.841" height="21" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.871"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="tag" transform="translate(-84 -204.726)">
+    <g id="BG" transform="translate(12 -375)">
+      <rect id="BG-2" data-name="BG" width="246.333" height="38" rx="5" transform="translate(72 583)" fill="#333"/>
+    </g>
+    <g id="Group_963" data-name="Group 963" transform="translate(12)">
+      <g id="BTN_SO2" transform="translate(237 215.726)">
+        <g transform="matrix(1, 0, 0, 1, -165, -11)" filter="url(#Path_1085)">
+          <path id="Path_1085-2" data-name="Path 1085" d="M282.1,643.4h20.779v9.131H282.1V643.4Z" transform="translate(-117.1 -625.5)" fill="#8cd5d6" fill-rule="evenodd"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -165, -11)" filter="url(#SO_)">
+          <text id="SO_2" data-name="SO₂" transform="translate(189.34 27)" fill="#f2f2f2" font-size="13" font-family="Calibri"><tspan x="0" y="0">SO₂</tspan></text>
+        </g>
+      </g>
+      <g id="BTN_NO2" transform="translate(176 215.726)">
+        <g transform="matrix(1, 0, 0, 1, -104, -11)" filter="url(#Path_1087)">
+          <path id="Path_1087-2" data-name="Path 1087" d="M361.7,643.4h20.779v9.131H361.7V643.4Z" transform="translate(-257.7 -625.5)" fill="#8aa1ae" fill-rule="evenodd"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -104, -11)" filter="url(#NO_)">
+          <text id="NO_2" data-name="NO₂" transform="translate(127.21 27)" fill="#f2f2f2" font-size="13" font-family="Calibri"><tspan x="0" y="0">NO₂</tspan></text>
+        </g>
+      </g>
+      <g id="BTN_PM2.5" transform="translate(-145 -359)">
+        <g id="Group_962" data-name="Group 962" transform="translate(0 -3)">
+          <g transform="matrix(1, 0, 0, 1, 217, 566.73)" filter="url(#PM_)">
+            <text id="PM_2" data-name="PM₂" transform="translate(59.5 25.92)" fill="#f2f2f2" font-size="13" font-family="Calibri"><tspan x="0" y="0">PM₂</tspan></text>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 217, 566.73)" filter="url(#_.5)">
+            <text id="_.5-2" data-name=".5" transform="translate(81.44 27.22)" fill="#f2f2f2" font-size="8" font-family="Calibri"><tspan x="0" y="0">.5</tspan></text>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 217, 563.73)" filter="url(#Line_77)">
+          <line id="Line_77-2" data-name="Line 77" x2="17.841" transform="translate(38 22.31)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

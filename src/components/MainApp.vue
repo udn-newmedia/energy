@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="main-app">
     <div
       :class="{
         'main-app-container': true,
@@ -360,21 +360,21 @@
 import Utils from 'udn-newmedia-utils';
 import {mapActions, mapState} from 'vuex';
 import Slick from 'vue-slick';
-import '../node_modules/slick-carousel/slick/slick.css';
-import '../node_modules/slick-carousel/slick/slick-theme.css';
+import '../../../node_modules/slick-carousel/slick/slick.css';
+import '../../../node_modules/slick-carousel/slick/slick-theme.css';
 
-import CardBody from './components/card/CardBody.vue';
-import ExpertCard from './components/card/ExpertCard.vue';
-import FBComment from './components/FBComment.vue';
-import Foot from './components/Foot.vue';
-import HeadBar from './components/HeadBar.vue';
-import MainCover from './components/MainCover.vue';
-import QuestionCard from './components/card/QuestionCard.vue';
-import TruthPanel from './components/card/TruthPanel.vue';
-import SvgFileQ2C1 from './components/charts/SvgFileQ2C1.vue';
-import SvgFileQ3 from './components/charts/SvgFileQ3.vue';
-import SvgFileQ4C2 from './components/charts/SvgFileQ4C2.vue';
-import SvgFileQ6 from './components/charts/SvgFileQ6.vue';
+import CardBody from './card/CardBody.vue';
+import ExpertCard from './card/ExpertCard.vue';
+import FBComment from './FBComment.vue';
+import Foot from './Foot.vue';
+import HeadBar from './HeadBar.vue';
+import MainCover from './MainCover.vue';
+import QuestionCard from './card/QuestionCard.vue';
+import TruthPanel from './card/TruthPanel.vue';
+import SvgFileQ2C1 from './charts/SvgFileQ2C1.vue';
+import SvgFileQ3 from './charts/SvgFileQ3.vue';
+import SvgFileQ4C2 from './charts/SvgFileQ4C2.vue';
+import SvgFileQ6 from './charts/SvgFileQ6.vue';
 
 export default {
   name: "MainApp",
@@ -533,7 +533,7 @@ export default {
 </script>
 
 <style lang="scss">
-  #app {
+  #main-app {
     position: relative;
     width: 100%;
     height: 100%;

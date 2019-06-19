@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87" height="38" viewBox="0 0 87 38">
+  <defs>
+    <filter id="元" x="38.596" y="3.5" width="28" height="32" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_77" x="13.5" y="8.534" width="38.841" height="21" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.871"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="tag" transform="translate(-165 -316)">
+    <rect id="Rectangle_926" data-name="Rectangle 926" width="87" height="38" rx="5" transform="translate(165 316)" fill="#333"/>
+    <g id="Group_905" data-name="Group 905" transform="translate(0 -339)">
+      <g transform="matrix(1, 0, 0, 1, 165, 655)" filter="url(#元)">
+        <text id="元-2" data-name="元" transform="translate(46.1 25)" fill="#f2f2f2" font-size="13" font-family="MicrosoftJhengHeiRegular, Microsoft JhengHei"><tspan x="0" y="0">元</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 165, 655)" filter="url(#Line_77)">
+        <line id="Line_77-2" data-name="Line 77" x2="17.841" transform="translate(24 19.03)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

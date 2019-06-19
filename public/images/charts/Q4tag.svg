@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="296" height="38" viewBox="0 0 296 38">
+  <defs>
+    <filter id="Path_1087" x="114" y="4.896" width="38.779" height="27.131" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="限電次數" x="137.209" y="1" width="70" height="35" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="備用容量率" x="32.502" y="0.915" width="83" height="35" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_77" x="9.5" y="7.808" width="38.841" height="21" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.871"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="目標值" x="229.502" y="0.915" width="57" height="35" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_77-2" x="207" y="8.308" width="37.841" height="20" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.871"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="tag" transform="translate(-69 -330)">
+    <rect id="BG" width="296" height="38" rx="5" transform="translate(69 330)" fill="#333"/>
+    <g id="Group_960" data-name="Group 960" transform="translate(-58 3.274)">
+      <g id="BTN_NO2" transform="translate(250 333.726)">
+        <g transform="matrix(1, 0, 0, 1, -123, -7)" filter="url(#Path_1087)">
+          <path id="Path_1087-2" data-name="Path 1087" d="M361.7,643.4h20.779v9.131H361.7V643.4Z" transform="translate(-238.7 -629.5)" fill="#ffcb47" fill-rule="evenodd"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -123, -7)" filter="url(#限電次數)">
+          <text id="限電次數-2" data-name="限電次數" transform="translate(146.21 24)" fill="#f2f2f2" font-size="13" font-family="MicrosoftJhengHeiRegular, Microsoft JhengHei"><tspan x="0" y="0">限電次數</tspan></text>
+        </g>
+      </g>
+      <g id="BTN_PM2.5" transform="translate(-108 -241)">
+        <g transform="matrix(1, 0, 0, 1, 235, 567.73)" filter="url(#備用容量率)">
+          <text id="備用容量率-2" data-name="備用容量率" transform="translate(41.5 23.92)" fill="#f2f2f2" font-size="13" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">備用容量率</tspan></text>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 235, 567.73)" filter="url(#Line_77)">
+          <line id="Line_77-3" data-name="Line 77" x2="17.841" transform="translate(20 18.31)" fill="none" stroke="#8aa1ae" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+        </g>
+      </g>
+      <g id="BTN_PM2.5-2" data-name="BTN_PM2.5" transform="translate(89 -241)">
+        <g transform="matrix(1, 0, 0, 1, 38, 567.73)" filter="url(#目標值)">
+          <text id="目標值-2" data-name="目標值" transform="translate(238.5 23.92)" fill="#f2f2f2" font-size="13" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">目標</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">值</tspan></text>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 38, 567.73)" filter="url(#Line_77-2)">
+          <line id="Line_77-4" data-name="Line 77" x2="17.841" transform="translate(217 18.31)" fill="none" stroke="#a5a5a5" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="1 5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

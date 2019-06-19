@@ -8,16 +8,28 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "babel-polyfill": "^6.26.0",
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "prerender-spa-plugin": "^3.4.0",
+    "udn-newmedia-utils": "^1.1.0",
+    "vue": "^2.6.10",
+    "vue-slick": "^1.1.15",
+    "vuex": "^3.1.1",
+    "whatwg-fetch": "^3.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.8.0",
     "@vue/cli-plugin-eslint": "^3.8.0",
     "@vue/cli-service": "^3.8.0",
+    "axios": "^0.18",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
+    "jquery": "^3.4.1",
+    "node-sass": "^4.12.0",
+    "sass": "^1.15.2",
+    "sass-loader": "^7.1.0",
+    "vue-svg-inline-loader": "^1.2.15",
     "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {

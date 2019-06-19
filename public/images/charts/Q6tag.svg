@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="216" height="39" viewBox="0 0 216 39">
+  <defs>
+    <filter id="Path_1087" x="89" y="5.896" width="38.779" height="27.131" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="備用容量率" x="112.209" y="0" width="93" height="38" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="GDP" x="32.502" y="1.915" width="45" height="36" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_77" x="9.5" y="8.808" width="38.841" height="21" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.871"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="tag" transform="translate(-96 -329)">
+    <rect id="BG" width="216" height="38" rx="5" transform="translate(96 330)" fill="#333"/>
+    <g id="Group_960" data-name="Group 960" transform="translate(-31 3.274)">
+      <g id="BTN_NO2" transform="translate(225 333.726)">
+        <g transform="matrix(1, 0, 0, 1, -98, -8)" filter="url(#Path_1087)">
+          <path id="Path_1087-2" data-name="Path 1087" d="M361.7,643.4h20.779v9.131H361.7V643.4Z" transform="translate(-263.7 -628.5)" fill="#ffcb47" fill-rule="evenodd"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -98, -8)" filter="url(#備用容量率)">
+          <text id="備用容量率-2" data-name="備用容量率" transform="translate(121.21 25)" fill="#f2f2f2" font-size="15" font-family="MicrosoftJhengHeiRegular, Microsoft JhengHei"><tspan x="0" y="0">備用容量率</tspan></text>
+        </g>
+      </g>
+      <g id="BTN_PM2.5" transform="translate(-108 -241)">
+        <g transform="matrix(1, 0, 0, 1, 235, 566.73)" filter="url(#GDP)">
+          <text id="GDP-2" data-name="GDP" transform="translate(41.5 24.92)" fill="#f2f2f2" font-size="15" font-family="Calibri"><tspan x="0" y="0">GDP</tspan></text>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 235, 566.73)" filter="url(#Line_77)">
+          <line id="Line_77-2" data-name="Line 77" x2="17.841" transform="translate(20 19.31)" fill="none" stroke="#8aa1ae" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

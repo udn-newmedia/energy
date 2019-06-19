@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="314" height="225" viewBox="0 0 314 225">
+  <g id="Q1" transform="translate(-47 -269)">
+    <text id="資料來源_台灣電力公司" data-name="資料來源：台灣電力公司" transform="translate(47 477)" fill="#9f9f9f" font-size="12" font-family="MicrosoftJhengHeiRegular, Microsoft JhengHei"><tspan x="172" y="13">資料來源：台灣電力公司</tspan></text>
+    <g id="Q1_chart" transform="translate(0 10)">
+      <g id="Group_8" data-name="Group 8" transform="translate(21 -525)">
+        <text id="抽蓄水力" transform="translate(42 958)" fill="#f2f2f2" font-size="13" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="3.968" y="14">抽蓄水力</tspan></text>
+        <text id="燃油" transform="translate(42 914)" fill="#f2f2f2" font-size="13" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="29.968" y="14">燃油</tspan></text>
+        <text id="核能" transform="translate(42 870)" fill="#f2f2f2" font-size="13" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="29.968" y="14">核能</tspan></text>
+        <text id="氣電共生" transform="translate(42 937)" fill="#f2f2f2" font-size="13" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="3.968" y="14">氣電共生</tspan></text>
+        <text id="再生能源" transform="translate(42 893)" fill="#f2f2f2" font-size="13" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="3.968" y="14">再生能源</tspan></text>
+        <text id="燃氣" transform="translate(42 849)" fill="#f2f2f2" font-size="13" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="29.968" y="14">燃氣</tspan></text>
+        <text id="燃煤" transform="translate(42 826)" fill="#f2f2f2" font-size="13" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="29.968" y="14">燃煤</tspan></text>
+      </g>
+      <rect id="Rectangle_732" data-name="Rectangle 732" width="183.58" height="5" rx="2" transform="translate(125 310)" fill="#777"/>
+      <rect id="Rectangle_735" data-name="Rectangle 735" width="183.58" height="5" rx="2" transform="translate(125.468 333)" fill="#777"/>
+      <rect id="Rectangle_738" data-name="Rectangle 738" width="183.58" height="5" rx="2" transform="translate(125.468 354)" fill="#777"/>
+      <rect id="Rectangle_741" data-name="Rectangle 741" width="183.58" height="5" rx="2" transform="translate(125.468 377)" fill="#777"/>
+      <rect id="Rectangle_744" data-name="Rectangle 744" width="183.58" height="5" rx="2" transform="translate(125.468 398)" fill="#777"/>
+      <rect id="Rectangle_747" data-name="Rectangle 747" width="183.58" height="5" rx="2" transform="translate(125.468 419)" fill="#777"/>
+      <rect id="Rectangle_750" data-name="Rectangle 750" width="184" height="5" rx="2" transform="translate(125.468 440)" fill="#777"/>
+      <path id="Rectangle_733" data-name="Rectangle 733" d="M2,0H71.22a0,0,0,0,1,0,0V5a0,0,0,0,1,0,0H2A2,2,0,0,1,0,3V2A2,2,0,0,1,2,0Z" transform="translate(125.468 310)" fill="#ffcb47"/>
+      <path id="Rectangle_736" data-name="Rectangle 736" d="M2,0H70.86a0,0,0,0,1,0,0V5a0,0,0,0,1,0,0H2A2,2,0,0,1,0,3V2A2,2,0,0,1,2,0Z" transform="translate(125.468 333)" fill="#ffcb47"/>
+      <path id="Rectangle_739" data-name="Rectangle 739" d="M2,0H20.92a0,0,0,0,1,0,0V5a0,0,0,0,1,0,0H2A2,2,0,0,1,0,3V2A2,2,0,0,1,2,0Z" transform="translate(125 354)" fill="#ffcb47"/>
+      <path id="Rectangle_743" data-name="Rectangle 743" d="M2,0H8.98a0,0,0,0,1,0,0V5a0,0,0,0,1,0,0H2A2,2,0,0,1,0,3V2A2,2,0,0,1,2,0Z" transform="translate(125.468 377)" fill="#ffcb47"/>
+      <path id="Rectangle_746" data-name="Rectangle 746" d="M2,0H5.15a0,0,0,0,1,0,0V5a0,0,0,0,1,0,0H2A2,2,0,0,1,0,3V2A2,2,0,0,1,2,0Z" transform="translate(125.468 398)" fill="#ffcb47"/>
+      <path id="Rectangle_749" data-name="Rectangle 749" d="M2,0H3.68a0,0,0,0,1,0,0V5a0,0,0,0,1,0,0H2A2,2,0,0,1,0,3V2A2,2,0,0,1,2,0Z" transform="translate(125.468 419)" fill="#ffcb47"/>
+      <path id="Rectangle_752" data-name="Rectangle 752" d="M2,0h.56a0,0,0,0,1,0,0V5a0,0,0,0,1,0,0H2A2,2,0,0,1,0,3V2A2,2,0,0,1,2,0Z" transform="translate(125.468 440)" fill="#ffcb47"/>
+      <text id="_38.8_" data-name="38.8%" transform="translate(313 304)" fill="#9f9f9f" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="12">38.8%</tspan></text>
+      <text id="_38.6_" data-name="38.6%" transform="translate(313 327)" fill="#9f9f9f" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="12">38.6%</tspan></text>
+      <text id="_11.4_" data-name="11.4%" transform="translate(313 348)" fill="#9f9f9f" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="12">11.4%</tspan></text>
+      <text id="_4.9_" data-name="4.9%" transform="translate(313 371)" fill="#9f9f9f" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="12">4.9%</tspan></text>
+      <text id="_2.8_" data-name="2.8%" transform="translate(313 392)" fill="#9f9f9f" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="12">2.8%</tspan></text>
+      <text id="_2.0_" data-name="2.0%" transform="translate(313 413)" fill="#9f9f9f" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="12">2.0%</tspan></text>
+      <text id="_1.4_" data-name="1.4%" transform="translate(313 434)" fill="#9f9f9f" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="12">1.4%</tspan></text>
+    </g>
+    <text id="title" transform="translate(54 269)" fill="#cecece" font-size="18" font-family="MicrosoftJhengHeiBold, Microsoft JhengHei"><tspan x="0" y="19">107年全台各能源發電量占比由高至低</tspan></text>
+  </g>
+</svg>

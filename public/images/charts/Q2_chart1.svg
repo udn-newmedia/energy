@@ -1,0 +1,402 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="317" height="435" viewBox="0 0 317 435">
+  <defs>
+    <filter id="元" x="152.596" y="39.5" width="28" height="32" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_77" x="127.5" y="44.534" width="38.841" height="21" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.871"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Q2_chart1" transform="translate(-51 -286)">
+    <g id="dotted_line_" transform="translate(280.009 479.258)" opacity="0.5">
+      <line id="Line_92" data-name="Line 92" y2="0.209" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_93" data-name="Line 93" y2="175.197" transform="translate(0 3.089)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="0.99 6.95"/>
+      <line id="Line_94" data-name="Line 94" y2="0.209" transform="translate(0 179.746)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <g id="line_bg" transform="translate(21.873 337.399)">
+      <line id="Line_116" data-name="Line 116" x2="275.895" transform="translate(55.349 240.155)" fill="none" stroke="#828282" stroke-miterlimit="10" stroke-width="0.72"/>
+      <line id="Line_117" data-name="Line 117" x2="275.895" transform="translate(55.349 152.92)" fill="none" stroke="#828282" stroke-miterlimit="10" stroke-width="0.72"/>
+      <line id="Line_118" data-name="Line 118" x2="275.895" transform="translate(55.349 65.686)" fill="none" stroke="#828282" stroke-miterlimit="10" stroke-width="0.72"/>
+      <line id="Line_95" data-name="Line 95" x2="275.895" transform="translate(55.349 327.389)" fill="none" stroke="#9f9f9f" stroke-miterlimit="10" stroke-width="0.69"/>
+    </g>
+    <g id="data_yello" transform="translate(21.873 337.399)">
+      <g id="data_line_yellow">
+        <line id="Line_119" data-name="Line 119" x1="16.236" y1="4.591" transform="translate(63.447 310.902)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_120" data-name="Line 120" x1="16.236" y1="2.838" transform="translate(79.683 315.493)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_121" data-name="Line 121" x1="16.236" y2="0.25" transform="translate(95.92 318.081)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_122" data-name="Line 122" x1="16.236" y2="8.932" transform="translate(112.156 309.149)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_123" data-name="Line 123" x1="16.236" y2="7.638" transform="translate(128.392 301.511)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_124" data-name="Line 124" x1="16.195" y2="26.629" transform="translate(144.629 274.881)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_125" data-name="Line 125" x1="16.236" y2="53.384" transform="translate(160.824 221.497)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_126" data-name="Line 126" x1="16.236" y2="0.501" transform="translate(177.06 220.996)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_127" data-name="Line 127" x1="16.236" y1="1.711" transform="translate(193.297 220.996)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_128" data-name="Line 128" x1="16.236" y2="21.329" transform="translate(209.533 201.379)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_129" data-name="Line 129" x1="16.195" y2="30.052" transform="translate(225.769 171.327)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_130" data-name="Line 130" x1="16.236" y2="30.72" transform="translate(241.964 140.607)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_131" data-name="Line 131" x1="16.236" y1="24" transform="translate(258.201 140.607)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_132" data-name="Line 132" x1="16.236" y1="55.346" transform="translate(274.437 164.607)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_133" data-name="Line 133" x1="16.236" y1="12.271" transform="translate(290.674 219.953)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_134" data-name="Line 134" x1="16.236" y2="9.642" transform="translate(306.91 222.582)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+      <g id="data_point_yellow">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="4.827" cy="4.827" r="4.827" transform="translate(58.714 306.127)" fill="#ffcb47"/>
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="4.827" cy="4.827" r="4.827" transform="translate(76.923 310.719)" fill="#ffcb47"/>
+        <circle id="Ellipse_3" data-name="Ellipse 3" cx="4.827" cy="4.827" r="4.827" transform="translate(92.236 313.641)" fill="#ffcb47"/>
+        <circle id="Ellipse_4" data-name="Ellipse 4" cx="4.827" cy="4.827" r="4.827" transform="translate(108.514 312.258)" fill="#ffcb47"/>
+        <circle id="Ellipse_5" data-name="Ellipse 5" cx="4.827" cy="4.827" r="4.827" transform="translate(123.826 305.423)" fill="#ffcb47"/>
+        <circle id="Ellipse_6" data-name="Ellipse 6" cx="4.827" cy="4.827" r="4.827" transform="translate(140.105 296.945)" fill="#ffcb47"/>
+        <circle id="Ellipse_7" data-name="Ellipse 7" cx="4.827" cy="4.827" r="4.827" transform="translate(155.417 271.197)" fill="#ffcb47"/>
+        <circle id="Ellipse_8" data-name="Ellipse 8" cx="4.827" cy="4.827" r="4.827" transform="translate(172.661 217.771)" fill="#ffcb47"/>
+        <circle id="Ellipse_9" data-name="Ellipse 9" cx="4.827" cy="4.827" r="4.827" transform="translate(190.453 217.354)" fill="#ffcb47"/>
+        <circle id="Ellipse_11" data-name="Ellipse 11" cx="4.827" cy="4.827" r="4.827" transform="translate(221.078 196.771)" fill="#ffcb47"/>
+        <circle id="Ellipse_12" data-name="Ellipse 12" cx="4.827" cy="4.827" r="4.827" transform="translate(237.357 166.719)" fill="#ffcb47"/>
+        <circle id="Ellipse_13" data-name="Ellipse 13" cx="4.827" cy="4.827" r="4.827" transform="translate(253.635 137.085)" fill="#ffcb47"/>
+        <circle id="Ellipse_14" data-name="Ellipse 14" cx="4.827" cy="4.827" r="4.827" transform="translate(269.913 161.972)" fill="#ffcb47"/>
+        <circle id="Ellipse_15" data-name="Ellipse 15" cx="4.827" cy="4.827" r="4.827" transform="translate(287.157 216.102)" fill="#ffcb47"/>
+        <circle id="Ellipse_16" data-name="Ellipse 16" cx="4.827" cy="4.827" r="4.827" transform="translate(303.435 227.658)" fill="#ffcb47"/>
+        <circle id="Ellipse_17" data-name="Ellipse 17" cx="4.827" cy="4.827" r="4.827" transform="translate(319.713 217.093)" fill="#ffcb47"/>
+        <circle id="Ellipse_21" data-name="Ellipse 21" cx="4.827" cy="4.827" r="4.827" transform="translate(205.453 218.354)" fill="#ffcb47"/>
+      </g>
+    </g>
+    <g id="year" transform="translate(21.873 337.399)">
+      <text id="_2002" data-name="2002" transform="translate(52.992 344.253)" fill="#9f9f9f" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">2002</tspan></text>
+      <text id="_2014" data-name="2014" transform="translate(247.561 344.253)" fill="#9f9f9f" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">2014</tspan></text>
+      <text id="_2018年" data-name="2018年" transform="translate(308.509 344.253)" fill="#9f9f9f" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">2018</tspan><tspan y="0" font-family="MicrosoftJhengHeiLight, Microsoft JhengHei">年</tspan></text>
+    </g>
+    <text id="_3.0705元" data-name="3.0705元" transform="translate(251.411 467.407)" fill="#ffcb47" font-size="14" font-family="MicrosoftJhengHeiLight, Microsoft JhengHei"><tspan x="0" y="0">3.0705元</tspan></text>
+    <g id="x" transform="translate(21.873 337.399)">
+      <text id="_2.0" data-name="2.0" transform="translate(29.4 330.803)" fill="#9f9f9f" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">2.0</tspan></text>
+      <text id="_2.5" data-name="2.5" transform="translate(29.4 243.569)" fill="#9f9f9f" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">2.5</tspan></text>
+      <text id="_3.0" data-name="3.0" transform="translate(29.4 156.334)" fill="#9f9f9f" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">3.0</tspan></text>
+      <text id="_3.5" data-name="3.5" transform="translate(29.4 69.1)" fill="#9f9f9f" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">3.5</tspan></text>
+      <text id="元-2" data-name="元" transform="translate(29.361 49.601)" fill="#9f9f9f" font-size="15" font-family="MicrosoftJhengHeiRegular, Microsoft JhengHei"><tspan x="0" y="0">元</tspan></text>
+    </g>
+    <g id="tag" transform="translate(0 6)">
+      <rect id="Rectangle_926" data-name="Rectangle 926" width="87" height="38" rx="5" transform="translate(165 316)" fill="#333"/>
+      <g id="Group_905" data-name="Group 905" transform="translate(0 -339)">
+        <g transform="matrix(1, 0, 0, 1, 51, 619)" filter="url(#元)">
+          <text id="元-3" data-name="元" transform="translate(160.1 61)" fill="#f2f2f2" font-size="13" font-family="MicrosoftJhengHeiRegular, Microsoft JhengHei"><tspan x="0" y="0">元</tspan></text>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 51, 619)" filter="url(#Line_77)">
+          <line id="Line_77-2" data-name="Line 77" x2="17.841" transform="translate(138 55.03)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+    <text id="資料來源_台灣電力公司" data-name="資料來源：台灣電力公司" transform="translate(51 696)" fill="#9f9f9f" font-size="12" font-family="MicrosoftJhengHeiRegular, Microsoft JhengHei"><tspan x="185" y="13">資料來源：台灣電力公司</tspan></text>
+    <g id="option2002" transform="translate(11 25)">
+      <rect id="bg" width="16" height="262" transform="translate(66 378)" fill="#575d60" opacity="0.48"/>
+      <g id="point" transform="translate(66.75 617)" fill="#ffcb47" stroke="#fff" stroke-width="1">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+      </g>
+      <g id="legend" transform="translate(8 130)">
+        <g id="BG-2" data-name="BG" transform="translate(81 414)" fill="#2a2a2a" opacity="0.95">
+          <path d="M0,0H91V60H0Z" stroke="none"/>
+          <path d="M 1 1 L 1 59 L 90 59 L 90 1 L 1 1 M 0 0 L 91 0 L 91 60 L 0 60 L 0 0 Z" stroke="none" fill="rgba(242,242,242,0.3)"/>
+        </g>
+        <text id="_2002年" data-name="2002年" transform="translate(94 424)" fill="#f2f2f2" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="14">2002</tspan><tspan y="14" font-family="YuGothicUI-Regular, Yu Gothic UI">年</tspan></text>
+        <g id="PM2.5" transform="translate(26 3)">
+          <text id="_2.0945元" data-name="2.0945元" transform="translate(80 440)" fill="#f2f2f2" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">2.0945</tspan><tspan y="14" font-family="YuGothicUI-Bold, Yu Gothic UI">元</tspan></text>
+        </g>
+        <circle id="Ellipse_38" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(94 450)" fill="#ffcb47"/>
+      </g>
+    </g>
+    <g id="option2003" transform="translate(28 25)">
+      <rect id="bg-3" data-name="bg" width="16" height="262" transform="translate(66 378)" fill="#575d60" opacity="0.48"/>
+      <g id="point-2" data-name="point" transform="translate(67.75 622)" fill="#ffcb47" stroke="#fff" stroke-width="1">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+      </g>
+      <g id="legend-2" data-name="legend" transform="translate(7 134)">
+        <g id="BG-4" data-name="BG" transform="translate(81 414)" fill="#2a2a2a" stroke="rgba(255,255,255,0.3)" stroke-width="1" opacity="0.95">
+          <rect width="91" height="60" stroke="none"/>
+          <rect x="0.5" y="0.5" width="90" height="59" fill="none"/>
+        </g>
+        <text id="_2003年" data-name="2003年" transform="translate(94 424)" fill="#f2f2f2" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="14">2003</tspan><tspan y="14" font-family="YuGothicUI-Regular, Yu Gothic UI">年</tspan></text>
+        <g id="PM2.5-2" data-name="PM2.5" transform="translate(26 3)">
+          <text id="_2.0682元" data-name="2.0682元" transform="translate(80 440)" fill="#f2f2f2" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">2.0682</tspan><tspan y="14" font-family="YuGothicUI-Bold, Yu Gothic UI">元</tspan></text>
+        </g>
+        <circle id="Ellipse_38-2" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(94 450)" fill="#ffcb47"/>
+      </g>
+    </g>
+    <g id="option2004" transform="translate(44 25)">
+      <rect id="bg-5" data-name="bg" width="16" height="262" transform="translate(66 378)" fill="#575d60" opacity="0.48"/>
+      <g id="point-3" data-name="point" transform="translate(67.75 625)" fill="#ffcb47" stroke="#fff" stroke-width="1">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+      </g>
+      <g id="legend-3" data-name="legend" transform="translate(9 138)">
+        <g id="BG-6" data-name="BG" transform="translate(81 414)" fill="#2a2a2a" stroke="rgba(242,242,242,0.3)" stroke-width="1" opacity="0.95">
+          <rect width="91" height="60" stroke="none"/>
+          <rect x="0.5" y="0.5" width="90" height="59" fill="none"/>
+        </g>
+        <text id="_2004年" data-name="2004年" transform="translate(94 424)" fill="#f2f2f2" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="14">2004</tspan><tspan y="14" font-family="YuGothicUI-Regular, Yu Gothic UI">年</tspan></text>
+        <g id="PM2.5-3" data-name="PM2.5" transform="translate(26 3)">
+          <text id="_2.0520元" data-name="2.0520元" transform="translate(80 440)" fill="#f2f2f2" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">2.0520</tspan><tspan y="14" font-family="YuGothicUI-Bold, Yu Gothic UI">元</tspan></text>
+        </g>
+        <circle id="Ellipse_38-3" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(94 450)" fill="#ffcb47"/>
+      </g>
+    </g>
+    <g id="option2005" transform="translate(60 25)">
+      <rect id="bg-7" data-name="bg" width="16" height="262" transform="translate(66 378)" fill="#575d60" opacity="0.48"/>
+      <g id="point-4" data-name="point" transform="translate(68.75 623)" fill="#ffcb47" stroke="#fff" stroke-width="1">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+      </g>
+      <g id="legend-4" data-name="legend" transform="translate(8 144)">
+        <g id="BG-8" data-name="BG" transform="translate(81 414)" fill="#2a2a2a" stroke="rgba(242,242,242,0.3)" stroke-width="1" opacity="0.95">
+          <rect width="91" height="60" stroke="none"/>
+          <rect x="0.5" y="0.5" width="90" height="59" fill="none"/>
+        </g>
+        <text id="_2005年" data-name="2005年" transform="translate(94 424)" fill="#f2f2f2" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="14">2005</tspan><tspan y="14" font-family="YuGothicUI-Regular, Yu Gothic UI">年</tspan></text>
+        <g id="PM2.5-4" data-name="PM2.5" transform="translate(26 3)">
+          <text id="_2.0533元" data-name="2.0533元" transform="translate(80 440)" fill="#f2f2f2" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">2.0533</tspan><tspan y="14" font-family="YuGothicUI-Bold, Yu Gothic UI">元</tspan></text>
+        </g>
+        <circle id="Ellipse_38-4" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(94 450)" fill="#ffcb47"/>
+      </g>
+    </g>
+    <g id="option2006" transform="translate(76 25)">
+      <rect id="bg-9" data-name="bg" width="16" height="262" transform="translate(66 378)" fill="#575d60" opacity="0.48"/>
+      <g id="point-5" data-name="point" transform="translate(67.75 615)" fill="#ffcb47" stroke="#fff" stroke-width="1">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+      </g>
+      <g id="legend-5" data-name="legend" transform="translate(5 154)">
+        <g id="BG-10" data-name="BG" transform="translate(81 414)" fill="#2a2a2a" stroke="rgba(242,242,242,0.3)" stroke-width="1" opacity="0.95">
+          <rect width="91" height="60" stroke="none"/>
+          <rect x="0.5" y="0.5" width="90" height="59" fill="none"/>
+        </g>
+        <text id="_2006年" data-name="2006年" transform="translate(94 424)" fill="#f2f2f2" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="14">2006</tspan><tspan y="14" font-family="YuGothicUI-Regular, Yu Gothic UI">年</tspan></text>
+        <g id="PM2.5-5" data-name="PM2.5" transform="translate(26 3)">
+          <text id="_2.1046元" data-name="2.1046元" transform="translate(80 440)" fill="#f2f2f2" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">2.1046</tspan><tspan y="14" font-family="YuGothicUI-Bold, Yu Gothic UI">元</tspan></text>
+        </g>
+        <circle id="Ellipse_38-5" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(94 450)" fill="#ffcb47"/>
+      </g>
+    </g>
+    <g id="option2007" transform="translate(93 25)">
+      <rect id="bg-11" data-name="bg" width="16" height="262" transform="translate(66 378)" fill="#575d60" opacity="0.48"/>
+      <g id="point-6" data-name="point" transform="translate(67.75 608)" fill="#ffcb47" stroke="#fff" stroke-width="1">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+      </g>
+      <g id="legend-6" data-name="legend" transform="translate(-7 128)">
+        <g id="BG-12" data-name="BG" transform="translate(81 414)" fill="#2a2a2a" stroke="rgba(242,242,242,0.3)" stroke-width="1" opacity="0.95">
+          <rect width="91" height="60" stroke="none"/>
+          <rect x="0.5" y="0.5" width="90" height="59" fill="none"/>
+        </g>
+        <text id="_2007年" data-name="2007年" transform="translate(94 424)" fill="#f2f2f2" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="14">2007</tspan><tspan y="14" font-family="YuGothicUI-Regular, Yu Gothic UI">年</tspan></text>
+        <g id="PM2.5-6" data-name="PM2.5" transform="translate(26 3)">
+          <text id="_2.1484元" data-name="2.1484元" transform="translate(80 440)" fill="#f2f2f2" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">2.1484</tspan><tspan y="14" font-family="YuGothicUI-Bold, Yu Gothic UI">元</tspan></text>
+        </g>
+        <circle id="Ellipse_38-6" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(94 450)" fill="#ffcb47"/>
+      </g>
+    </g>
+    <g id="option2008" transform="translate(109 25)">
+      <rect id="bg-13" data-name="bg" width="16" height="262" transform="translate(66 378)" fill="#575d60" opacity="0.48"/>
+      <g id="point-7" data-name="point" transform="translate(67.75 581)" fill="#ffcb47" stroke="#fff" stroke-width="1">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+      </g>
+      <g id="legend-7" data-name="legend" transform="translate(-110 113)">
+        <g id="BG-14" data-name="BG" transform="translate(81 414)" fill="#2a2a2a" stroke="rgba(242,242,242,0.3)" stroke-width="1" opacity="0.95">
+          <rect width="91" height="60" stroke="none"/>
+          <rect x="0.5" y="0.5" width="90" height="59" fill="none"/>
+        </g>
+        <text id="_2008年" data-name="2008年" transform="translate(94 424)" fill="#f2f2f2" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="14">2008</tspan><tspan y="14" font-family="YuGothicUI-Regular, Yu Gothic UI">年</tspan></text>
+        <g id="PM2.5-7" data-name="PM2.5" transform="translate(26 3)">
+          <text id="_2.3010元" data-name="2.3010元" transform="translate(80 440)" fill="#f2f2f2" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">2.3010</tspan><tspan y="14" font-family="YuGothicUI-Bold, Yu Gothic UI">元</tspan></text>
+        </g>
+        <circle id="Ellipse_38-7" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(94 450)" fill="#ffcb47"/>
+      </g>
+    </g>
+    <g id="option2009" transform="translate(125 25)">
+      <rect id="bg-15" data-name="bg" width="16" height="262" transform="translate(66 378)" fill="#575d60" opacity="0.48"/>
+      <g id="point-8" data-name="point" transform="translate(67.75 528)" fill="#ffcb47" stroke="#fff" stroke-width="1">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+      </g>
+      <g id="legend-8" data-name="legend" transform="translate(-113 84)">
+        <g id="BG-16" data-name="BG" transform="translate(81 414)" fill="#2a2a2a" stroke="rgba(242,242,242,0.3)" stroke-width="1" opacity="0.95">
+          <rect width="91" height="60" stroke="none"/>
+          <rect x="0.5" y="0.5" width="90" height="59" fill="none"/>
+        </g>
+        <text id="_2009年" data-name="2009年" transform="translate(94 424)" fill="#f2f2f2" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="14">2009</tspan><tspan y="14" font-family="YuGothicUI-Regular, Yu Gothic UI">年</tspan></text>
+        <g id="PM2.5-8" data-name="PM2.5" transform="translate(26 3)">
+          <text id="_2.6070元" data-name="2.6070元" transform="translate(80 440)" fill="#f2f2f2" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">2.6070</tspan><tspan y="14" font-family="YuGothicUI-Bold, Yu Gothic UI">元</tspan></text>
+        </g>
+        <circle id="Ellipse_38-8" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(94 450)" fill="#ffcb47"/>
+      </g>
+    </g>
+    <g id="option2010" transform="translate(141 25)">
+      <rect id="bg-17" data-name="bg" width="16" height="262" transform="translate(66 378)" fill="#575d60" opacity="0.48"/>
+      <g id="point-9" data-name="point" transform="translate(67.75 528)" fill="#ffcb47" stroke="#fff" stroke-width="1">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+      </g>
+      <g id="legend-9" data-name="legend" transform="translate(-113 84)">
+        <g id="BG-18" data-name="BG" transform="translate(81 414)" fill="#2a2a2a" stroke="rgba(242,242,242,0.3)" stroke-width="1" opacity="0.95">
+          <rect width="91" height="60" stroke="none"/>
+          <rect x="0.5" y="0.5" width="90" height="59" fill="none"/>
+        </g>
+        <text id="_2010年" data-name="2010年" transform="translate(94 424)" fill="#f2f2f2" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="14">2010</tspan><tspan y="14" font-family="YuGothicUI-Regular, Yu Gothic UI">年</tspan></text>
+        <g id="PM2.5-9" data-name="PM2.5" transform="translate(26 3)">
+          <text id="_2.6098元" data-name="2.6098元" transform="translate(80 440)" fill="#f2f2f2" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">2.6098</tspan><tspan y="14" font-family="YuGothicUI-Bold, Yu Gothic UI">元</tspan></text>
+        </g>
+        <circle id="Ellipse_38-9" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(94 450)" fill="#ffcb47"/>
+      </g>
+    </g>
+    <g id="option2011" transform="translate(157 25)">
+      <rect id="bg-19" data-name="bg" width="16" height="262" transform="translate(66 378)" fill="#575d60" opacity="0.48"/>
+      <g id="point-10" data-name="point" transform="translate(67.75 528)" fill="#ffcb47" stroke="#fff" stroke-width="1">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+      </g>
+      <g id="legend-10" data-name="legend" transform="translate(-111 65)">
+        <g id="BG-20" data-name="BG" transform="translate(81 414)" fill="#2a2a2a" stroke="rgba(242,242,242,0.3)" stroke-width="1" opacity="0.95">
+          <rect width="91" height="60" stroke="none"/>
+          <rect x="0.5" y="0.5" width="90" height="59" fill="none"/>
+        </g>
+        <text id="_2011年" data-name="2011年" transform="translate(94 424)" fill="#f2f2f2" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="14">2011</tspan><tspan y="14" font-family="YuGothicUI-Regular, Yu Gothic UI">年</tspan></text>
+        <g id="PM2.5-10" data-name="PM2.5" transform="translate(26 3)">
+          <text id="_2.6001元" data-name="2.6001元" transform="translate(80 440)" fill="#f2f2f2" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">2.6001</tspan><tspan y="14" font-family="YuGothicUI-Bold, Yu Gothic UI">元</tspan></text>
+        </g>
+        <circle id="Ellipse_38-10" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(94 450)" fill="#ffcb47"/>
+      </g>
+    </g>
+    <g id="option2012" transform="translate(173 25)">
+      <rect id="bg-21" data-name="bg" width="16" height="262" transform="translate(66 378)" fill="#575d60" opacity="0.48"/>
+      <g id="point-11" data-name="point" transform="translate(67.75 507)" fill="#ffcb47" stroke="#fff" stroke-width="1">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+      </g>
+      <g id="legend-11" data-name="legend" transform="translate(-110 46)">
+        <g id="BG-22" data-name="BG" transform="translate(81 414)" fill="#2a2a2a" stroke="rgba(242,242,242,0.3)" stroke-width="1" opacity="0.95">
+          <rect width="91" height="60" stroke="none"/>
+          <rect x="0.5" y="0.5" width="90" height="59" fill="none"/>
+        </g>
+        <text id="_2012年" data-name="2012年" transform="translate(94 424)" fill="#f2f2f2" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="14">2012</tspan><tspan y="14" font-family="YuGothicUI-Regular, Yu Gothic UI">年</tspan></text>
+        <g id="PM2.5-11" data-name="PM2.5" transform="translate(26 3)">
+          <text id="_2.6001元-2" data-name="2.6001元" transform="translate(80 440)" fill="#f2f2f2" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">2.6001</tspan><tspan y="14" font-family="YuGothicUI-Bold, Yu Gothic UI">元</tspan></text>
+        </g>
+        <circle id="Ellipse_38-11" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(94 450)" fill="#ffcb47"/>
+      </g>
+    </g>
+    <g id="option2013" transform="translate(190 25)">
+      <rect id="bg-23" data-name="bg" width="16" height="262" transform="translate(66 378)" fill="#575d60" opacity="0.48"/>
+      <g id="point-12" data-name="point" transform="translate(67.75 477)" fill="#ffcb47" stroke="#fff" stroke-width="1">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+      </g>
+      <g id="legend-12" data-name="legend" transform="translate(-111 24)">
+        <g id="BG-24" data-name="BG" transform="translate(81 414)" fill="#2a2a2a" stroke="rgba(242,242,242,0.3)" stroke-width="1" opacity="0.95">
+          <rect width="91" height="60" stroke="none"/>
+          <rect x="0.5" y="0.5" width="90" height="59" fill="none"/>
+        </g>
+        <text id="_2013年" data-name="2013年" transform="translate(94 424)" fill="#f2f2f2" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="14">2013</tspan><tspan y="14" font-family="YuGothicUI-Regular, Yu Gothic UI">年</tspan></text>
+        <g id="PM2.5-12" data-name="PM2.5" transform="translate(26 3)">
+          <text id="_2.8945元" data-name="2.8945元" transform="translate(80 440)" fill="#f2f2f2" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">2.8945</tspan><tspan y="14" font-family="YuGothicUI-Bold, Yu Gothic UI">元</tspan></text>
+        </g>
+        <circle id="Ellipse_38-12" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(94 450)" fill="#ffcb47"/>
+      </g>
+    </g>
+    <g id="option2014" transform="translate(206 25)">
+      <rect id="bg-25" data-name="bg" width="16" height="262" transform="translate(66 378)" fill="#575d60" opacity="0.48"/>
+      <g id="point-13" data-name="point" transform="translate(67.75 448)" fill="#ffcb47" stroke="#fff" stroke-width="1">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+      </g>
+      <g id="legend-13" data-name="legend" transform="translate(-110 -3)">
+        <g id="BG-26" data-name="BG" transform="translate(81 414)" fill="#2a2a2a" stroke="rgba(242,242,242,0.3)" stroke-width="1" opacity="0.95">
+          <rect width="91" height="60" stroke="none"/>
+          <rect x="0.5" y="0.5" width="90" height="59" fill="none"/>
+        </g>
+        <text id="_2014年" data-name="2014年" transform="translate(94 424)" fill="#f2f2f2" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="14">2014</tspan><tspan y="14" font-family="YuGothicUI-Regular, Yu Gothic UI">年</tspan></text>
+        <g id="PM2.5-13" data-name="PM2.5" transform="translate(26 3)">
+          <text id="_3.0705元-2" data-name="3.0705元" transform="translate(80 440)" fill="#f2f2f2" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">3.0705</tspan><tspan y="14" font-family="YuGothicUI-Bold, Yu Gothic UI">元</tspan></text>
+        </g>
+        <circle id="Ellipse_38-13" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(94 450)" fill="#ffcb47"/>
+      </g>
+    </g>
+    <g id="option2015" transform="translate(222 25)">
+      <rect id="bg-27" data-name="bg" width="16" height="262" transform="translate(66 378)" fill="#575d60" opacity="0.48"/>
+      <g id="point-14" data-name="point" transform="translate(67.75 473)" fill="#ffcb47" stroke="#fff" stroke-width="1">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+      </g>
+      <g id="legend-14" data-name="legend" transform="translate(-110 17)">
+        <g id="BG-28" data-name="BG" transform="translate(81 414)" fill="#2a2a2a" stroke="rgba(242,242,242,0.3)" stroke-width="1" opacity="0.95">
+          <rect width="91" height="60" stroke="none"/>
+          <rect x="0.5" y="0.5" width="90" height="59" fill="none"/>
+        </g>
+        <text id="_2015年" data-name="2015年" transform="translate(94 424)" fill="#f2f2f2" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="14">2015</tspan><tspan y="14" font-family="YuGothicUI-Regular, Yu Gothic UI">年</tspan></text>
+        <g id="PM2.5-14" data-name="PM2.5" transform="translate(26 3)">
+          <text id="_2.9331元" data-name="2.9331元" transform="translate(80 440)" fill="#f2f2f2" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">2.9331</tspan><tspan y="14" font-family="YuGothicUI-Bold, Yu Gothic UI">元</tspan></text>
+        </g>
+        <circle id="Ellipse_38-14" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(94 450)" fill="#ffcb47"/>
+      </g>
+    </g>
+    <g id="option2016" transform="translate(239 25)">
+      <rect id="bg-29" data-name="bg" width="16" height="262" transform="translate(66 378)" fill="#575d60" opacity="0.48"/>
+      <g id="point-15" data-name="point" transform="translate(67.75 527)" fill="#ffcb47" stroke="#fff" stroke-width="1">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+      </g>
+      <g id="legend-15" data-name="legend" transform="translate(-113 113)">
+        <g id="BG-30" data-name="BG" transform="translate(81 414)" fill="#2a2a2a" stroke="rgba(242,242,242,0.3)" stroke-width="1" opacity="0.95">
+          <rect width="91" height="60" stroke="none"/>
+          <rect x="0.5" y="0.5" width="90" height="59" fill="none"/>
+        </g>
+        <text id="_2016年" data-name="2016年" transform="translate(94 424)" fill="#f2f2f2" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="14">2016</tspan><tspan y="14" font-family="YuGothicUI-Regular, Yu Gothic UI">年</tspan></text>
+        <g id="PM2.5-15" data-name="PM2.5" transform="translate(26 3)">
+          <text id="_2.6159元" data-name="2.6159元" transform="translate(80 440)" fill="#f2f2f2" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">2.6159</tspan><tspan y="14" font-family="YuGothicUI-Bold, Yu Gothic UI">元</tspan></text>
+        </g>
+        <circle id="Ellipse_38-15" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(94 450)" fill="#ffcb47"/>
+      </g>
+    </g>
+    <g id="option2017" transform="translate(255 25)">
+      <rect id="bg-31" data-name="bg" width="16" height="262" transform="translate(66 378)" fill="#575d60" opacity="0.48"/>
+      <g id="point-16" data-name="point" transform="translate(67.75 537)" fill="#ffcb47" stroke="#fff" stroke-width="1">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+      </g>
+      <g id="legend-16" data-name="legend" transform="translate(-113 113)">
+        <g id="BG-32" data-name="BG" transform="translate(81 414)" fill="#2a2a2a" stroke="rgba(242,242,242,0.3)" stroke-width="1" opacity="0.95">
+          <rect width="91" height="60" stroke="none"/>
+          <rect x="0.5" y="0.5" width="90" height="59" fill="none"/>
+        </g>
+        <text id="_2017年" data-name="2017年" transform="translate(94 424)" fill="#f2f2f2" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="14">2017</tspan><tspan y="14" font-family="YuGothicUI-Regular, Yu Gothic UI">年</tspan></text>
+        <g id="PM2.5-16" data-name="PM2.5" transform="translate(26 3)">
+          <text id="_2.5454元" data-name="2.5454元" transform="translate(80 440)" fill="#f2f2f2" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">2.5454</tspan><tspan y="14" font-family="YuGothicUI-Bold, Yu Gothic UI">元</tspan></text>
+        </g>
+        <circle id="Ellipse_38-16" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(94 450)" fill="#ffcb47"/>
+      </g>
+    </g>
+    <g id="option2017-2" data-name="option2017" transform="translate(271 25)">
+      <rect id="bg-33" data-name="bg" width="16" height="262" transform="translate(66 378)" fill="#575d60" opacity="0.48"/>
+      <g id="point-17" data-name="point" transform="translate(67.75 527)" fill="#ffcb47" stroke="#fff" stroke-width="1">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+      </g>
+      <g id="legend-17" data-name="legend" transform="translate(-117 110)">
+        <g id="BG-34" data-name="BG" transform="translate(81 414)" fill="#2a2a2a" stroke="rgba(242,242,242,0.3)" stroke-width="1" opacity="0.95">
+          <rect width="91" height="60" stroke="none"/>
+          <rect x="0.5" y="0.5" width="90" height="59" fill="none"/>
+        </g>
+        <text id="_2018年-2" data-name="2018年" transform="translate(94 424)" fill="#f2f2f2" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="14">2018</tspan><tspan y="14" font-family="YuGothicUI-Regular, Yu Gothic UI">年</tspan></text>
+        <g id="PM2.5-17" data-name="PM2.5" transform="translate(26 3)">
+          <text id="_2.6008元" data-name="2.6008元" transform="translate(80 440)" fill="#f2f2f2" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">2.6008</tspan><tspan y="14" font-family="YuGothicUI-Bold, Yu Gothic UI">元</tspan></text>
+        </g>
+        <circle id="Ellipse_38-17" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(94 450)" fill="#ffcb47"/>
+      </g>
+    </g>
+    <text id="title" transform="translate(152 286)" fill="#cecece" font-size="18" font-family="MicrosoftJhengHeiBold, Microsoft JhengHei"><tspan x="0" y="19">歷年平均電價</tspan></text>
+  </g>
+</svg>
