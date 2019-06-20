@@ -80,11 +80,19 @@ export default {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    @media only screen and (min-width: 769px) {
+    @media only screen and (min-width: 1281px) {
       position: absolute;
       top: 0;
       right: 10%;
       width: 37%;
+      height: 100vh;
+      align-items: flex-start;
+    }
+    @media only screen and (min-width: 769px) and (max-width: 1280px) {
+      position: absolute;
+      top: 0;
+      right: 10%;
+      width: 42%;
       height: 100vh;
       align-items: flex-start;
     }
@@ -104,6 +112,9 @@ export default {
       }
       .title-bottom {
         font-size: 24px;
+        @media only screen and (min-width: 769px) {
+          font-size: 40px;
+        }
       }
     }
 
@@ -118,7 +129,7 @@ export default {
       background-color: rgba($color: #1c1c1c, $alpha: 0.7);
       border: solid 1px #ffcb47;
       border-radius: 10px;
-      margin: 25px 0;
+      margin: 25px 0 0 0;
       cursor: pointer;
     }
 
@@ -126,14 +137,14 @@ export default {
       position: relative;
       width: 100%;
       .intro-top {
-        padding: 10px 30px;
+        padding: 0px 30px 10px 30px;
         text-align: center;
         @media only screen and (min-width: 769px) {
-          padding: 10px 0;
+          padding: 0 0 10px 0;
           text-align: left;
         }
         h2 {
-          font-size: 18px;
+          font-size: 18px !important;
           font-weight: bold;
         }
       }
@@ -151,7 +162,7 @@ export default {
       position: absolute;
       bottom: 50px;
       right: 0;
-      text-align: right;
+      width: 100%;
       font-size: 10px;
     }
   }

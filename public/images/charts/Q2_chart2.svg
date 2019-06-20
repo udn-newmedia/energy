@@ -1,41 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="314" height="352" viewBox="0 0 314 352">
-  <g id="Q2_chart2" transform="translate(-54 -932)">
-    <text id="資料來源_Global_Petro_Prices" data-name="資料來源：Global Petro Prices" transform="translate(55 1258)" fill="#cecece" font-size="15" font-family="MicrosoftJhengHeiRegular, Microsoft JhengHei"><tspan x="105.285" y="16">資料來源：Global Petro Prices</tspan></text>
-    <text id="_2018_年_6_月國際電價比較表" data-name="2018 年 6 月國際電價比較表" transform="translate(109 932)" fill="#cecece" font-size="15" font-family="MicrosoftJhengHeiBold, Microsoft JhengHei"><tspan x="0" y="16">2018 年 6 月國際電價比較表</tspan></text>
-    <text id="_0.00" data-name="0.00" transform="translate(98.356 1233.676)" fill="#9f9f9f" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">0.00</tspan></text>
-    <text id="_0.05" data-name="0.05" transform="translate(131.957 1233.676)" fill="#9f9f9f" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">0.05</tspan></text>
-    <text id="_0.10" data-name="0.10" transform="translate(165.593 1233.676)" fill="#9f9f9f" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">0.10</tspan></text>
-    <text id="_0.15" data-name="0.15" transform="translate(199.194 1233.676)" fill="#9f9f9f" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">0.15</tspan></text>
-    <text id="_0.20" data-name="0.20" transform="translate(232.831 1233.676)" fill="#9f9f9f" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">0.20</tspan></text>
-    <text id="_0.25" data-name="0.25" transform="translate(266.432 1233.676)" fill="#9f9f9f" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">0.25</tspan></text>
-    <text id="_0.30" data-name="0.30" transform="translate(300.069 1233.676)" fill="#9f9f9f" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">0.30</tspan></text>
-    <text id="_0.35" data-name="0.35" transform="translate(333.669 1233.676)" fill="#9f9f9f" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">0.35</tspan></text>
-    <line id="Line_135" data-name="Line 135" x2="235.314" transform="translate(109.09 1219.635)" fill="none" stroke="#9f9f9f" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_136" data-name="Line 136" y1="4.451" transform="translate(109.09 1215.183)" fill="none" stroke="#9f9f9f" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_137" data-name="Line 137" y1="4.451" transform="translate(142.69 1215.183)" fill="none" stroke="#9f9f9f" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_138" data-name="Line 138" y1="4.451" transform="translate(176.327 1215.183)" fill="none" stroke="#9f9f9f" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_139" data-name="Line 139" y1="4.451" transform="translate(209.928 1215.183)" fill="none" stroke="#9f9f9f" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_140" data-name="Line 140" y1="4.451" transform="translate(243.565 1215.183)" fill="none" stroke="#9f9f9f" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_141" data-name="Line 141" y1="4.451" transform="translate(277.165 1215.183)" fill="none" stroke="#9f9f9f" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_142" data-name="Line 142" y1="4.451" transform="translate(310.802 1215.183)" fill="none" stroke="#9f9f9f" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_143" data-name="Line 143" y1="4.451" transform="translate(344.403 1215.183)" fill="none" stroke="#9f9f9f" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_144" data-name="Line 144" y1="179.312" transform="translate(109.09 1018.424)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_145" data-name="Line 145" x2="5.887" transform="translate(109.09 1192.137)" fill="none" stroke="#777" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_146" data-name="Line 146" x2="5.887" transform="translate(109.09 1130.936)" fill="none" stroke="#777" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_147" data-name="Line 147" x2="5.887" transform="translate(109.09 1119.736)" fill="none" stroke="#777" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_148" data-name="Line 148" x2="5.887" transform="translate(109.09 1108.536)" fill="none" stroke="#777" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_149" data-name="Line 149" x2="5.887" transform="translate(109.09 1097.3)" fill="none" stroke="#777" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_150" data-name="Line 150" x2="5.887" transform="translate(109.09 1086.099)" fill="none" stroke="#777" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_151" data-name="Line 151" x2="5.887" transform="translate(109.09 1074.899)" fill="none" stroke="#777" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_152" data-name="Line 152" x2="5.887" transform="translate(109.09 1063.699)" fill="none" stroke="#777" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_153" data-name="Line 153" x2="5.887" transform="translate(109.09 1052.498)" fill="none" stroke="#777" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_154" data-name="Line 154" x2="5.887" transform="translate(109.09 1041.262)" fill="none" stroke="#777" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_155" data-name="Line 155" x2="5.887" transform="translate(109.09 1030.062)" fill="none" stroke="#777" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_156" data-name="Line 156" x2="5.887" transform="translate(109.09 1018.862)" fill="none" stroke="#777" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_157" data-name="Line 157" x2="5.887" transform="translate(109.09 1007.661)" fill="none" stroke="#777" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_158" data-name="Line 158" x2="5.887" transform="translate(109.09 996.461)" fill="none" stroke="#777" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_159" data-name="Line 159" x2="5.887" transform="translate(109.09 977.225)" fill="none" stroke="#777" stroke-miterlimit="10" stroke-width="1"/>
-    <line id="Line_160" data-name="Line 160" x2="5.887" transform="translate(109.09 966.025)" fill="none" stroke="#777" stroke-miterlimit="10" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="314" height="430" viewBox="0 0 314 430">
+  <defs>
+    <filter id="Path_1087" x="101" y="44.896" width="38.779" height="27.131" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_美元_度" x="124.209" y="39" width="81" height="38" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Q2_chart2" transform="translate(-54 -847)">
+    <text id="資料來源_Global_Petro_Prices" data-name="資料來源：Global Petro Prices" transform="translate(55 1258)" fill="#9f9f9f" font-size="12" font-family="MicrosoftJhengHeiRegular, Microsoft JhengHei"><tspan x="146.828" y="13">資料來源：Global Petro Prices</tspan></text>
+    <text id="_2018_年_6_月國際電價比較表" data-name="2018 年 6 月國際電價比較表" transform="translate(109 847)" fill="#cecece" font-size="18" font-family="MicrosoftJhengHeiBold, Microsoft JhengHei"><tspan x="0" y="19">2018 年 6 月國際電價比</tspan></text>
+    <text id="_0.00" data-name="0.00" transform="translate(98.356 1233.676)" fill="#9f9f9f" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">0.00</tspan></text>
+    <text id="_0.05" data-name="0.05" transform="translate(131.957 1233.676)" fill="#9f9f9f" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">0.05</tspan></text>
+    <text id="_0.10" data-name="0.10" transform="translate(165.593 1233.676)" fill="#9f9f9f" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">0.10</tspan></text>
+    <text id="_0.15" data-name="0.15" transform="translate(199.194 1233.676)" fill="#9f9f9f" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">0.15</tspan></text>
+    <text id="_0.20" data-name="0.20" transform="translate(232.831 1233.676)" fill="#9f9f9f" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">0.20</tspan></text>
+    <text id="_0.25" data-name="0.25" transform="translate(266.432 1233.676)" fill="#9f9f9f" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">0.25</tspan></text>
+    <text id="_0.30" data-name="0.30" transform="translate(300.069 1233.676)" fill="#9f9f9f" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">0.30</tspan></text>
+    <text id="_0.35" data-name="0.35" transform="translate(333.669 1233.676)" fill="#9f9f9f" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">0.35</tspan></text>
+    <g id="line" transform="translate(0 -252.683)" opacity="0.37">
+      <line id="Line_137" data-name="Line 137" y1="257.134" transform="translate(142.69 1215.183)" fill="none" stroke="#828282" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_138" data-name="Line 138" y1="257.134" transform="translate(176.327 1215.183)" fill="none" stroke="#828282" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_139" data-name="Line 139" y1="257.134" transform="translate(209.928 1215.183)" fill="none" stroke="#828282" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_140" data-name="Line 140" y1="257.134" transform="translate(243.565 1215.183)" fill="none" stroke="#828282" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_141" data-name="Line 141" y1="257.134" transform="translate(277.165 1215.183)" fill="none" stroke="#828282" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_142" data-name="Line 142" y1="257.134" transform="translate(310.802 1215.183)" fill="none" stroke="#828282" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_143" data-name="Line 143" y1="257.134" transform="translate(344.403 1215.183)" fill="none" stroke="#828282" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_135" data-name="Line 135" x2="235.314" transform="translate(109.09 1472.318)" fill="none" stroke="#515151" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
     <rect id="Rectangle_910" data-name="Rectangle 910" width="33.637" height="8.07" transform="translate(109.09 962.5)" fill="#777" stroke="#777" stroke-miterlimit="10" stroke-width="0.5"/>
     <rect id="Rectangle_911" data-name="Rectangle 911" width="40.35" height="8.07" transform="translate(109.09 978.5)" fill="#777" stroke="#777" stroke-miterlimit="10" stroke-width="0.5"/>
     <rect id="Rectangle_912" data-name="Rectangle 912" width="40.35" height="8.07" transform="translate(109.09 994.5)" fill="#777" stroke="#777" stroke-miterlimit="10" stroke-width="0.5"/>
@@ -84,5 +84,18 @@
     <text id="_0.27" data-name="0.27" transform="translate(293.937 1175.533)" fill="#c5c5c5" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">0.27</tspan></text>
     <text id="_0.33" data-name="0.33" transform="translate(333.937 1191.533)" fill="#c5c5c5" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">0.33</tspan></text>
     <text id="_0.33-2" data-name="0.33" transform="translate(341.937 1206.533)" fill="#c5c5c5" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">0.33</tspan></text>
+    <g id="tag" transform="translate(3 557)">
+      <rect id="BG" width="138" height="38" rx="5" transform="translate(135 330)" fill="#333"/>
+      <g id="Group_960" data-name="Group 960" transform="translate(8 3.274)">
+        <g id="BTN_NO2" transform="translate(153 333.726)">
+          <g transform="matrix(1, 0, 0, 1, -110, -47)" filter="url(#Path_1087)">
+            <path id="Path_1087-2" data-name="Path 1087" d="M361.7,643.4h20.779v9.131H361.7V643.4Z" transform="translate(-251.7 -589.5)" fill="#ffcb47" fill-rule="evenodd"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -110, -47)" filter="url(#_美元_度)">
+            <text id="_美元_度-2" data-name=" 美元 / 度" transform="translate(133.21 64)" fill="#f2f2f2" font-size="15" font-family="MicrosoftJhengHeiRegular, Microsoft JhengHei"><tspan x="0" y="0" xml:space="preserve"> 美元 / 度</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
   </g>
 </svg>

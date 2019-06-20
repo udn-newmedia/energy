@@ -72,7 +72,7 @@ export default {
     },
     goNextPage() {
       // call MainApp function
-      this.$root.$children[0].goToPage(this.pageNumber + 1);
+      this.$root.$children[0].goToPage(this.currentPage + 1);
     },
   },
 };

@@ -4,7 +4,7 @@
       <div class="title">近年台灣空氣品質監測數據</div>
       <img src="images/charts/Q3tag.svg" alt="legend">
     </div>
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="264.348" viewBox="0 70 325 354.348">
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" :height="computeHeight" viewBox="0 70 325 354.348">
       <defs>
         <clipPath id="clip-path">
           <path id="Path_1080" data-name="Path 1080" d="M53.2,283.28H336.773V62.7H53.2V283.28Z" transform="translate(-53.2 -62.7)" fill="none"/>
@@ -932,6 +932,9 @@ export default {
     computeCurrentYear() {
       return this.startFlag ? this.currentYear + '年' : '年份';
     },
+    computeHeight() {
+      return window.innerHeight * 0.4;
+    },
   },
   methods: {
     showTooltip(dir) {
@@ -993,7 +996,7 @@ export default {
         justify-content: center;
         align-items: center;
         text-align: center;
-        margin: 0 20px;
+        margin: 0 23px;
         color: #8b8b8b;
         font-size: 14px;
       }

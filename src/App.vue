@@ -49,7 +49,6 @@
               arrows: false,
             }"
             @setPosition="handleSetPosition"
-            @swipe="handleSwipe"
           >
             <QuestionCard :rotateFlag=rotateFlags[0] :pageNumber=0>
               <transition slot=cardFront>
@@ -103,7 +102,7 @@
                       根據環保署監測數據，近 10 年懸浮微粒、細懸浮微粒、二氧化硫、二氧化氮等有害氣體年平均濃度均呈下降趨勢。
                     </p>
                     <p>
-                      然而，根據台大風險社會與政策研究中心分析，台灣各空品區空氣品質雖呈逐步改善狀態，但空氣污染「越嚴重地區改善越少」，2017年前，雲林麥寮、台西地區，與高雄前鎮地區空氣品質甚至呈惡化狀態。
+                      然而，根據台大風險社會與政策研究中心分析，台灣各空品區空氣品質雖呈逐步改善狀態，但空氣污染「越嚴重地區改善越少」， 2017 年前，雲林麥寮、台西地區，與高雄前鎮地區空氣品質甚至呈惡化狀態。
                     </p>
                     <p>
                       此外，根據監測結果，包含高雄橋頭、大寮、林園；台南新營；嘉義新港、朴子；彰化二林；苗栗市等空氣品質本來就不佳的地區，在 2018 年時空氣品質也呈惡化狀態。
@@ -127,7 +126,7 @@
                     <SvgFileQ4C2></SvgFileQ4C2>
                     <p><br></p>
                     <p>
-                      近 15 年來，台灣僅在 2017 年有一次限電記錄，原因是中油人為疏失導致桃園大潭電廠6部機組天然氣供氣中斷，並非發電量不足。
+                      近 15 年來，台灣僅在 2017 年有一次限電記錄，原因是中油人為疏失導致桃園大潭電廠 6 部機組天然氣供氣中斷，並非發電量不足。
                     </p>
                     <p>
                       回顧台電歷史資料，1996 年前，台灣因備用容量率偏低，雖有核電支援仍不足以供應國人用電，所以常有限電紀錄，但近十多年來，除了 1999 年 921 大地震、2002 年中油天然氣儲存量不足，以及 2017 年人為疏失外，已沒有因為發電量不足而限電的紀錄。
@@ -147,14 +146,7 @@
                   <div class="card-back-title">最乾淨的燃煤，還是比燃氣發電髒</div>
                   <TruthPanel :pageNumber=4>
                     <p>根據中興大學環境工程系教授莊秉潔研究，同樣都是火力發電，在最佳運轉狀態下同時測量燃煤與天然氣發電，可發現燃煤所排放的各種污染氣體都較高，分別是</p>
-                    <li>硫氧化物 138 倍</li>
-                    <li>氮氧化物 1.84 倍</li>
-                    <li>懸浮微粒 48 倍</li>
-                    <p><br></p>
-                    <p>此外，根據環保署監測結果，107年火力發電溫室氣體排放量結構中，以燃煤排放的溫室氣體最多，是燃氣的 2 倍多、燃油的 12 倍多。</p>
-                    <li>燃煤  65.1%</li>
-                    <li>燃氣  29.7%</li>
-                    <li>燃油  5.3%</li>
+                    <img width="100%" src="images/charts/Q5_chart.svg" alt="台灣能源民調">
                   </TruthPanel>
                 </div>
               </transition>
@@ -188,7 +180,9 @@
                 <div class="card-body-group">
                   <div class="card-back-title">核電爭辯 40 年，台灣卻無長期核電支持度研究</div>
                   <TruthPanel :pageNumber=6>
-                    <img width="100%" src="images/charts/Q7.svg" alt="台灣能源民調">
+                    <div style="padding: 0 20%;">
+                      <img width="100%" src="images/charts/Q7.svg" alt="台灣能源民調">
+                    </div>
                   </TruthPanel>
                 </div>
               </transition>
@@ -254,14 +248,6 @@
                   <CardBody :pageNumber=10></CardBody>
                 </div>
               </transition>
-              <!-- <transition slot=cardBack>
-                <div class="card-body-group">
-                  <div class="card-back-title">This is a sub title.</div>
-                  <TruthPanel :pageNumber=10>
-                    <img width="100%" src="images/line_chart.svg" alt="">
-                  </TruthPanel>
-                </div>
-              </transition> -->
             </QuestionCard>
             <QuestionCard :rotateFlag=rotateFlags[11] :pageNumber=11>
               <transition slot=cardFront>
@@ -269,14 +255,6 @@
                   <CardBody :pageNumber=11></CardBody>
                 </div>
               </transition>
-              <!-- <transition slot=cardBack>
-                <div class="card-body-group">
-                  <div class="card-back-title">This is a sub title.</div>
-                  <TruthPanel :pageNumber=11>
-                    <img width="100%" src="images/line_chart.svg" alt="">
-                  </TruthPanel>
-                </div>
-              </transition> -->
             </QuestionCard>
             <QuestionCard :rotateFlag=rotateFlags[12] :pageNumber=12>
               <transition slot=cardFront>
@@ -284,14 +262,6 @@
                   <CardBody :pageNumber=12></CardBody>
                 </div>
               </transition>
-              <!-- <transition slot=cardBack>
-                <div class="card-body-group">
-                  <div class="card-back-title">This is a sub title.</div>
-                  <TruthPanel :pageNumber=12>
-                    <img width="100%" src="images/line_chart.svg" alt="">
-                  </TruthPanel>
-                </div>
-              </transition> -->
             </QuestionCard>
             <QuestionCard :rotateFlag=rotateFlags[13] :pageNumber=13>
               <transition slot=cardFront>
@@ -303,7 +273,7 @@
                 <div class="card-body-group">
                   <div class="card-back-title">能源轉型將導致每度電漲 0.5 元</div>
                   <TruthPanel :pageNumber=13>
-                    <p>經濟部2018年6月估算，再生能源轉型最多會讓未來每度電價增加0.27元。如果再加上燃氣、核四資產減損攤提部分，預計2025年後，平均每度電會增加0.5元。</p>
+                    <p>經濟部 2018 年 6 月估算，再生能源轉型最多會讓未來每度電價增加 0.27 元。如果再加上燃氣、核四資產減損攤提部分，預計 2025 年後，平均每度電會增加 0.5 元。</p>
                   </TruthPanel>
                 </div>
               </transition>
@@ -314,14 +284,6 @@
                   <CardBody :pageNumber=14></CardBody>
                 </div>
               </transition>
-              <!-- <transition slot=cardBack>
-                <div class="card-body-group">
-                  <div class="card-back-title">This is a sub title.</div>
-                  <TruthPanel :pageNumber=14>
-                    <img width="100%" src="images/line_chart.svg" alt="">
-                  </TruthPanel>
-                </div>
-              </transition> -->
             </QuestionCard>
             <QuestionCard :pageNumber=15 :expertFlag=true>
               <ExpertCard slot=cardFront :pageNumber=15></ExpertCard>
@@ -497,9 +459,13 @@ export default {
     handleSetPosition(event, slick) {
       this.updatePage(slick.currentSlide);
       this.scrollToTop();
-    },
-    handleSwipe(event, slick, direction) {
-      
+
+      window.ga('newmedia.send', {
+        hitType: 'event',
+        eventCategory: 'poll',
+        eventAction: 'slide',
+        eventLabel: `[${Utils.detectPlatform()}] [${document.querySelector('title').innerHTML}] [第${this.currentPage + 1}題] [滑入題目]`,
+      });
     },
     expertButtonEvent(page) {
       this.updatePage(page);
@@ -580,7 +546,10 @@ export default {
         @media only screen and (min-width: 321px) and (max-width: 411px) {
           left: 56.5%;
         }
-        @media only screen and (min-width: 412px) and (max-width: 768px) {
+        @media only screen and (min-width: 412px) and (max-width: 500px) {
+          top: 24%;
+        }
+        @media only screen and (min-width: 501px) and (max-width: 768px) {
           top: 24%;
           left: 61%;
         }

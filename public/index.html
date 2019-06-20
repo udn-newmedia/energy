@@ -50,6 +50,11 @@
       // ga('create', 'UA-109046852-1', 'auto', {'name': 'nightPaper'});
       // ga('nightPaper.send', 'pageview');
     </script>
+    <style>
+      [v-cloak] {
+        display: none;
+      }
+    </style>
   </head>
   <body>
     <noscript>
@@ -66,7 +71,16 @@
       };
     </script>
     <script async defer src="https://connect.facebook.net/zh_TW/sdk.js?t-1#xfbml=1&version=v3.2&appId=1010324812347164"></script>
-    <div id="app"></div>
+    <div id="app" v-cloak>
+      <div slot>
+        <h1>不要唬爛！你真的了解台灣能源現況嗎？</h1>
+        <h2>聯合報能源民調大公開 + 線上即時民調</h2>
+        <h3>台灣主要發電方式是什麼？會不會缺電？電價合不合理？能源轉型又在搞什麼名堂？《聯合報》針對上述議題在今年四月進行民調，發現許多民眾對台灣能源現況存在誤解，快來看看我們的調查結果，同時測試您的能源 IQ，並且表達您的意見吧！</h3>
+        <img title="聯合報願景工程" src="./images/visual_logo.png" alt="聯合報願景工程">
+        <img title="聯合新聞網" src="./images/udn_logo.jpg" alt="udn聯合新聞網">
+        <img title="聯合報新媒體中心" src="./images/newmedia_logo.jpg" alt="聯合報新媒體中心">
+      </div>
+    </div>
     <!-- built files will be auto injected -->
   </body>
 </html>

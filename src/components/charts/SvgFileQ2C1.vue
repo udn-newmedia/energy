@@ -4,7 +4,7 @@
       <div class="title">歷年平均電價</div>
       <img src="images/charts/Q2tag.svg" alt="legend">
     </div>
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="335" viewBox="0 50 317 435">
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" :height="computeHeight" viewBox="0 50 317 435">
       <defs>
         <filter id="元" x="152.596" y="39.5" width="28" height="32" filterUnits="userSpaceOnUse">
           <feOffset input="SourceAlpha"/>
@@ -443,6 +443,9 @@ export default {
     computeCurrentYear() {
       return this.startFlag ? this.currentYear + '年' : '年份';
     },
+    computeHeight() {
+      return window.innerHeight * 0.5;
+    },
   },
   methods: {
     showTooltip(dir) {
@@ -481,16 +484,17 @@ export default {
       animation-duration: 2s;
       animation-timing-function: linear;
       animation-iteration-count: infinite;
+      border: solid 1px;
     }
     @keyframes shiningAnimation {
       0% {
-        border: solid 1px rgba(#ffffff, 0);
+        border-color: #ffffff00;
       }
       50% {
-        border: solid 1px rgba(#ffffff, 1);
+        border-color: #ffffffff;
       }
       100% {
-        border: solid 1px rgba(#ffffff, 0);
+        border-color: #ffffff00;
       }
     }
     .slider-bar {
@@ -504,7 +508,7 @@ export default {
         justify-content: center;
         align-items: center;
         text-align: center;
-        margin: 0 20px;
+        margin: 0 23px;
         color: #8b8b8b;
         font-size: 14px;
       }

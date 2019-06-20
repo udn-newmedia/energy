@@ -24,7 +24,7 @@
           'category-button': true,
           'button-active': advancedQuestionFlag ? questionGroupAdvanced.groupView.includes(currentPage) : questionGroup.groupView.includes(currentPage)
         }"
-        @click="categoryButtonEvent(questionGroup.groupView[0])"
+        @click="categoryButtonEvent(advancedQuestionFlag ? questionGroupAdvanced.groupView[0] : questionGroup.groupView[0])"
       >
         現況看法
       </div>
@@ -33,7 +33,7 @@
           'category-button': true,
           'button-active': advancedQuestionFlag ? questionGroupAdvanced.groupEffect.includes(currentPage) : questionGroup.groupEffect.includes(currentPage)
         }"
-        @click="categoryButtonEvent(questionGroup.groupEffect[0])"
+        @click="categoryButtonEvent(advancedQuestionFlag ? questionGroupAdvanced.groupEffect[0] : questionGroup.groupEffect[0])"
       >
         電力影響
       </div>
@@ -42,7 +42,7 @@
           'category-button': true,
           'button-active': advancedQuestionFlag ? questionGroupAdvanced.groupChoice.includes(currentPage) : questionGroup.groupChoice.includes(currentPage)
         }"
-        @click="categoryButtonEvent(questionGroup.groupChoice[0])"
+        @click="categoryButtonEvent(advancedQuestionFlag ? questionGroupAdvanced.groupChoice[0] : questionGroup.groupChoice[0])"
       >
         能源轉型
       </div>
@@ -51,7 +51,7 @@
           'category-button': true,
           'button-active': advancedQuestionFlag ? questionGroupAdvanced.groupTransformation.includes(currentPage) : questionGroup.groupTransformation.includes(currentPage)
         }"
-        @click="categoryButtonEvent(questionGroup.groupTransformation[0])"
+        @click="categoryButtonEvent(advancedQuestionFlag ? questionGroupAdvanced.groupTransformation[0] : questionGroup.groupTransformation[0])"
       >
         妥協取捨
       </div>

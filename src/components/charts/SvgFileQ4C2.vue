@@ -4,7 +4,7 @@
       <div class="title">台灣近年供電狀況</div>
       <img src="images/charts/Q4tag.svg" alt="legend">
     </div>
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="224" viewBox="0 80 352.521 274">
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" :height="computeHeight" viewBox="0 80 352.521 274">
       <defs>
         <filter id="Path_1087" x="132.57" y="56.896" width="38.779" height="27.131" filterUnits="userSpaceOnUse">
           <feOffset input="SourceAlpha"/>
@@ -1092,6 +1092,9 @@ export default {
     computeCurrentYear() {
       return this.startFlag ? this.currentYear + '年' : '年份';
     },
+    computeHeight() {
+      return window.innerHeight * 0.4;
+    },
   },
   methods: {
     showTooltip(dir) {
@@ -1153,7 +1156,7 @@ export default {
         justify-content: center;
         align-items: center;
         text-align: center;
-        margin: 0 20px;
+        margin: 0 23px;
         color: #8b8b8b;
         font-size: 14px;
       }
