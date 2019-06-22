@@ -2,7 +2,7 @@
   <div class="svg-container">
     <div class="title-and-legend-wrapper">
       <div class="title">近年台灣空氣品質監測數據</div>
-      <img src="images/charts/Q3tag.svg" alt="legend">
+      <img width="60%" src="images/blur/Q3tag@3x.png" alt="legend">
     </div>
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" :height="computeHeight" viewBox="0 70 325 354.348">
       <defs>
@@ -961,7 +961,7 @@ export default {
       position: relative;
       text-align: center;
       .title {
-        font-size: 0.9rem;
+        font-size: 1rem;
         color: #cecece;
       }
       img {
@@ -973,16 +973,17 @@ export default {
       animation-duration: 2s;
       animation-timing-function: linear;
       animation-iteration-count: infinite;
+      border: solid 1px;
     }
     @keyframes shiningAnimation {
       0% {
-        border: solid 1px rgba(#ffffff, 0);
+        border-color: #ffffff00;
       }
       50% {
-        border: solid 1px rgba(#ffffff, 1);
+        border-color: #ffffffff;
       }
       100% {
-        border: solid 1px rgba(#ffffff, 0);
+        border-color: #ffffff00;
       }
     }
     .slider-bar {

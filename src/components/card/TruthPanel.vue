@@ -81,6 +81,7 @@ export default {
 <style lang="scss" scoped>
   .truth-panel-container {
     margin-bottom: 5%;
+    text-align: center;
     .text-wrapper {
       margin: 10% 0;
       text-align: justify;
@@ -127,6 +128,7 @@ export default {
         text-align: right;
         color: #c5c5c5;
         font-size: 0.8rem;
+        margin: 5px 0;
       }      
     }
   }

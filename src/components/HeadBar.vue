@@ -62,7 +62,7 @@
         }"
         @click="categoryButtonEvent(pageAmount)"
       >
-        專家報導
+        專家評析
       </div>
     </div>
   </nav>
@@ -103,10 +103,10 @@ export default {
         action_type: 'og.shares',
         action_properties: JSON.stringify({
           object: {
-            'og:url': 'http://nmdap.udn.com.tw/newmedia/energy/',
+            'og:url': 'https://udn.com/upf/newmedia/2019_data/energy/',
             'og:title': '不要唬爛～你真的了解台灣能源現況嗎？',
             'og:description': '台灣主要發電方式是什麼？會不會缺電？電價合不合理？能源轉型又在搞什麼名堂？',
-            'og:image': 'http://nmdap.udn.com.tw/newmedia/energy/images/meta.jpg',
+            'og:image': 'https://udn.com/upf/newmedia/2019_data/energy/images/meta.jpg',
           },
         })
       })
@@ -118,7 +118,7 @@ export default {
       });
     },
     shareLine() {
-      const HREF = 'http://nmdap.udn.com.tw/newmedia/energy/';
+      const HREF = 'https://udn.com/upf/newmedia/2019_data/energy/';
       if (Utils.detectMob()) {
         // 手機
         window.open(`https://line.me/R/msg/text/?"${document.querySelector('title').innerHTML}%0D%0A%0D%0A${document.querySelector('meta[property="og:description"]').content}%0D%0A%0D%0A${HREF}`);

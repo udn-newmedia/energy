@@ -2,20 +2,20 @@
   <div class="svg-container">
     <div class="title-and-legend-wrapper">
       <div class="title">歷年平均電價</div>
-      <img src="images/charts/Q2tag.svg" alt="legend">
+      <!-- <img src="images/charts/Q2tag.svg" alt="legend"> -->
     </div>
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" :height="computeHeight" viewBox="0 50 317 435">
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" :height="computeHeight" viewBox="0 30 317 435">
       <defs>
         <filter id="元" x="152.596" y="39.5" width="28" height="32" filterUnits="userSpaceOnUse">
           <feOffset input="SourceAlpha"/>
-          <feGaussianBlur stdDeviation="2.5" result="blur"/>
+          <feGaussianBlur stdDeviation="0" result="blur"/>
           <feFlood flood-opacity="0.6"/>
           <feComposite operator="in" in2="blur"/>
           <feComposite in="SourceGraphic"/>
         </filter>
         <filter id="Line_77" x="127.5" y="44.534" width="38.841" height="21" filterUnits="userSpaceOnUse">
           <feOffset input="SourceAlpha"/>
-          <feGaussianBlur stdDeviation="3" result="blur-2"/>
+          <feGaussianBlur stdDeviation="0" result="blur-2"/>
           <feFlood flood-opacity="0.871"/>
           <feComposite operator="in" in2="blur-2"/>
           <feComposite in="SourceGraphic"/>
@@ -85,7 +85,7 @@
           <text id="_3.5" data-name="3.5" transform="translate(29.4 69.1)" fill="#9f9f9f" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">3.5</tspan></text>
           <text id="元-2" data-name="元" transform="translate(29.361 49.601)" fill="#9f9f9f" font-size="15" font-family="MicrosoftJhengHeiRegular, Microsoft JhengHei"><tspan x="0" y="0">元</tspan></text>
         </g>
-        <!-- <g id="tag" transform="translate(0 6)">
+        <g id="tag" transform="translate(0 6)">
           <rect id="Rectangle_926" data-name="Rectangle 926" width="87" height="38" rx="5" transform="translate(165 316)" fill="#333"/>
           <g id="Group_905" data-name="Group 905" transform="translate(0 -339)">
             <g transform="matrix(1, 0, 0, 1, 51, 619)" filter="url(#元)">
@@ -95,7 +95,7 @@
               <line id="Line_77-2" data-name="Line 77" x2="17.841" transform="translate(138 55.03)" fill="none" stroke="#ffcb47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
             </g>
           </g>
-        </g> -->
+        </g>
         <text id="資料來源_台灣電力公司" data-name="資料來源：台灣電力公司" transform="translate(51 696)" fill="#9f9f9f" font-size="12" font-family="MicrosoftJhengHeiRegular, Microsoft JhengHei"><tspan x="185" y="13">資料來源：台灣電力公司</tspan></text>
         <g v-show="currentYear === 2002" id="option2002" transform="translate(11 25)">
           <rect id="bg" width="16" height="262" transform="translate(66 378)" fill="#575d60" opacity="0.48"/>
@@ -471,8 +471,9 @@ export default {
     .title-and-legend-wrapper {
       position: relative;
       text-align: center;
+      margin-bottom: 10px;
       .title {
-        font-size: 0.9rem;
+        font-size: 1rem;
         color: #cecece;
       }
       img {

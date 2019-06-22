@@ -2,49 +2,49 @@
   <defs>
     <filter id="Path_1085" x="156" y="8.896" width="38.779" height="27.131" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feGaussianBlur stdDeviation="0" result="blur"/>
       <feFlood flood-opacity="0.6"/>
       <feComposite operator="in" in2="blur"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <filter id="SO_" x="174.345" y="0" width="49" height="45" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feGaussianBlur stdDeviation="0" result="blur-2"/>
       <feFlood/>
       <feComposite operator="in" in2="blur-2"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <filter id="Path_1087" x="95" y="8.896" width="38.779" height="27.131" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feGaussianBlur stdDeviation="0" result="blur-3"/>
       <feFlood flood-opacity="0.6"/>
       <feComposite operator="in" in2="blur-3"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <filter id="NO_" x="118.209" y="6" width="40" height="33" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feGaussianBlur stdDeviation="0" result="blur-4"/>
       <feFlood flood-opacity="0.6"/>
       <feComposite operator="in" in2="blur-4"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <filter id="PM_" x="50.502" y="4.915" width="41" height="33" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feGaussianBlur stdDeviation="0" result="blur-5"/>
       <feFlood flood-opacity="0.6"/>
       <feComposite operator="in" in2="blur-5"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <filter id="_.5" x="72.445" y="10.224" width="25" height="28" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feGaussianBlur stdDeviation="0" result="blur-6"/>
       <feFlood flood-opacity="0.6"/>
       <feComposite operator="in" in2="blur-6"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <filter id="Line_77" x="27.5" y="11.808" width="38.841" height="21" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feGaussianBlur stdDeviation="0" result="blur-7"/>
       <feFlood flood-opacity="0.871"/>
       <feComposite operator="in" in2="blur-7"/>
       <feComposite in="SourceGraphic"/>

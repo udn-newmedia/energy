@@ -2,7 +2,7 @@
   <div class="svg-container">
     <div class="title-and-legend-wrapper">
       <div class="title">台灣近年供電狀況</div>
-      <img src="images/charts/Q4tag.svg" alt="legend">
+      <img width="70%" src="images/blur/Q4tag@3x.png" alt="legend">
     </div>
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" :height="computeHeight" viewBox="0 80 352.521 274">
       <defs>
@@ -1121,7 +1121,7 @@ export default {
       position: relative;
       text-align: center;
       .title {
-        font-size: 0.9rem;
+        font-size: 1rem;
         color: #cecece;
       }
       img {
@@ -1133,16 +1133,17 @@ export default {
       animation-duration: 2s;
       animation-timing-function: linear;
       animation-iteration-count: infinite;
+      border: solid 1px;
     }
     @keyframes shiningAnimation {
       0% {
-        border: solid 1px rgba(#ffffff, 0);
+        border-color: #ffffff00;
       }
       50% {
-        border: solid 1px rgba(#ffffff, 1);
+        border-color: #ffffffff;
       }
       100% {
-        border: solid 1px rgba(#ffffff, 0);
+        border-color: #ffffff00;
       }
     }
     .slider-bar {

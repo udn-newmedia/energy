@@ -2,42 +2,42 @@
   <defs>
     <filter id="Path_1087" x="114" y="4.896" width="38.779" height="27.131" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feGaussianBlur stdDeviation="0" result="blur"/>
       <feFlood flood-opacity="0.6"/>
       <feComposite operator="in" in2="blur"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <filter id="限電次數" x="137.209" y="1" width="70" height="35" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feGaussianBlur stdDeviation="0" result="blur-2"/>
       <feFlood flood-opacity="0.6"/>
       <feComposite operator="in" in2="blur-2"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <filter id="備用容量率" x="32.502" y="0.915" width="83" height="35" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feGaussianBlur stdDeviation="0" result="blur-3"/>
       <feFlood flood-opacity="0.6"/>
       <feComposite operator="in" in2="blur-3"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <filter id="Line_77" x="9.5" y="7.808" width="38.841" height="21" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feGaussianBlur stdDeviation="0" result="blur-4"/>
       <feFlood flood-opacity="0.871"/>
       <feComposite operator="in" in2="blur-4"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <filter id="目標值" x="229.502" y="0.915" width="57" height="35" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feGaussianBlur stdDeviation="0" result="blur-5"/>
       <feFlood flood-opacity="0.6"/>
       <feComposite operator="in" in2="blur-5"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <filter id="Line_77-2" x="207" y="8.308" width="37.841" height="20" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feGaussianBlur stdDeviation="0" result="blur-6"/>
       <feFlood flood-opacity="0.871"/>
       <feComposite operator="in" in2="blur-6"/>
       <feComposite in="SourceGraphic"/>

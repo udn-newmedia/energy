@@ -235,7 +235,7 @@
               </transition>
               <transition slot=cardBack>
                 <div class="card-body-group">
-                  <div class="card-back-title">蔡政府能源轉型目標：去核減媒</div>
+                  <div class="card-back-title">蔡政府能源轉型目標：去核減煤</div>
                   <TruthPanel :pageNumber=9>
                     <img width="100%" src="images/charts/Q10_chart.svg" alt="台灣能源民調">
                   </TruthPanel>
@@ -295,7 +295,7 @@
               class="footer-container"
             >
               <div class="comment-and-footer">
-                <FBComment href="http://newmedia.udn.com.tw/energy/"></FBComment>
+                <FBComment href="https://udn.com/upf/newmedia/2019_data/energy/"></FBComment>
               </div>
               <Foot></Foot>
             </div>

@@ -165,8 +165,10 @@ export default {
         return this.totalPeople;
       } else if (this.pollSelectedFlag) {
         return this.pollPeople;
-      } else {
+      } else if (this.onlineSelectedFlag) {
         return this.onlinePeople;
+      } else {
+        return 0;
       }
     },
     isMob() {
@@ -318,7 +320,7 @@ export default {
         this.mostItem = this.calcMostItem(
           this.questionInfo[this.pageNumber].pollAmount
         );
-      } else {
+      } else if (this.onlineSelectedFlag) {
         this.addWidth("online", false);
         this.clearWidth("poll");
         this.percentObject = this.calcAmountToPercent(
@@ -326,6 +328,11 @@ export default {
           this.onlinePeople,
           false
         );
+        this.mostItem = this.calcMostItem(this.onlineAmount);
+      } else {
+        this.addWidth("online", false);
+        this.clearWidth("poll");
+        this.percentObject = {};
         this.mostItem = this.calcMostItem(this.onlineAmount);
       }
     },
@@ -341,7 +348,7 @@ export default {
     },
     submitOption(pageNumber, index) {
       const pageUrl =
-        "http://nmdap.udn.com.tw/newmedia/energy/api/poll/" +
+        "https://newmedia.udn.com.tw/energy/api/poll/" +
         (this.pageNumber + 1) +
         "/" +
         (index + 1);
@@ -358,7 +365,7 @@ export default {
     },
     fetchPollsList() {
       const pageUrl =
-        "http://nmdap.udn.com.tw/newmedia/energy/api/poll/" +
+        "https://newmedia.udn.com.tw/energy/api/poll/" +
         (this.pageNumber + 1);
       fetch(pageUrl)
         .then(res => res.json())

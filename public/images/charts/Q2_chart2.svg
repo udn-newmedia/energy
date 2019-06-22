@@ -2,16 +2,16 @@
   <defs>
     <filter id="Path_1087" x="101" y="44.896" width="38.779" height="27.131" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feFlood flood-opacity="0.6"/>
-      <feComposite operator="in" in2="blur"/>
+      <feGaussianBlur stdDeviation="0" result="blur"/>
+      <feFlood flood-opacity="0"/>
+      <!-- <feComposite operator="in" in2="blur"/> -->
       <feComposite in="SourceGraphic"/>
     </filter>
     <filter id="_美元_度" x="124.209" y="39" width="81" height="38" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-2"/>
-      <feFlood flood-opacity="0.6"/>
-      <feComposite operator="in" in2="blur-2"/>
+      <feGaussianBlur stdDeviation="0" result="blur-2"/>
+      <feFlood flood-opacity="0"/>
+      <!-- <feComposite operator="in" in2="blur-2"/> -->
       <feComposite in="SourceGraphic"/>
     </filter>
   </defs>
