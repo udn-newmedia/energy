@@ -237,7 +237,7 @@
                 <div class="card-body-group">
                   <div class="card-back-title">蔡政府能源轉型目標：去核減煤</div>
                   <TruthPanel :pageNumber=9>
-                    <img width="100%" src="images/charts/Q10_chart.svg" alt="台灣能源民調">
+                    <img width="100%" src="images/charts/Q10_chart_.svg" alt="台灣能源民調">
                   </TruthPanel>
                 </div>
               </transition>

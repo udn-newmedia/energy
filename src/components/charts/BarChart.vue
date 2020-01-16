@@ -348,7 +348,7 @@ export default {
     },
     submitOption(pageNumber, index) {
       const pageUrl =
-        "https://newmedia.udn.com.tw/energy/api/poll/" +
+        "https://newmedia.udn.com.tw/active_laravel/api/energy_poll/" +
         (this.pageNumber + 1) +
         "/" +
         (index + 1);
@@ -365,7 +365,7 @@ export default {
     },
     fetchPollsList() {
       const pageUrl =
-        "https://newmedia.udn.com.tw/energy/api/poll/" +
+        "https://newmedia.udn.com.tw/active_laravel/api/energy_poll/" +
         (this.pageNumber + 1);
       fetch(pageUrl)
         .then(res => res.json())
